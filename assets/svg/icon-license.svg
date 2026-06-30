@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 40 42">
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 40 42">
   <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
   <defs>
     <style>
@@ -19,17 +19,17 @@
         opacity: .3;
       }
     </style>
-    <linearGradient id="_무제_그라디언트" data-name="무제 그라디언트" x1="7" y1="41.9" x2="7" y2="29.1" gradientTransform="translate(13 48.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_무제_그라디언트" data-name="무제 그라디언트" x1="7" y1="800" x2="7" y2="812.8" gradientTransform="translate(13 -793)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#f1f5f5"/>
     </linearGradient>
   </defs>
   <g class="st3">
-    <path class="st2" d="M14.4,22.9l4.7,2.7-9.5,16.4-2.7-6.1,7.5-13h0Z"/>
-    <path class="st2" d="M14.4,22.9l-4.7-2.7L.3,36.6l6.6-.7,7.5-13Z"/>
+    <path class="st2" d="M14.5,22.9l4.7,2.7-9.5,16.4-2.7-6.1,7.5-13h0Z"/>
+    <path class="st2" d="M14.4,22.9l-4.7-2.7L.3,36.6l6.6-.7s7.5-13,7.5-13Z"/>
     <path class="st2" d="M25.6,22.9l-4.7,2.7,9.5,16.4,2.7-6.1-7.5-13h0Z"/>
-    <path class="st2" d="M25.6,22.9l4.7-2.7,9.5,16.4-6.6-.7-7.5-13h0Z"/>
+    <path class="st2" d="M25.6,22.9l4.7-2.7,9.5,16.4-6.6-.7-7.5-13h-.1Z"/>
     <path class="st0" d="M20,27.9c7.7,0,13.9-6.2,13.9-13.9S27.7,0,20,0,6.1,6.3,6.1,14s6.2,13.9,13.9,13.9Z"/>
-    <path class="st1" d="M20,7l2.3,4.3,4.6.5-3.2,3.3.9,4.7-4.6-2.1-4.6,2.1.9-4.7-3.2-3.3,4.6-.5,2.3-4.3Z"/>
+    <path class="st1" d="M20,7l2.3,4.3,4.6.5-3.2,3.3.9,4.7-4.6-2.1-4.6,2.1.9-4.7-3.2-3.3,4.6-.5s2.3-4.3,2.3-4.3Z"/>
   </g>
 </svg>
